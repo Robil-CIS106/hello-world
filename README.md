@@ -1,2 +1,3 @@
 # hello-world
 This is my new repository I am working on
+I am taking this course because it can help me a lot with my major and my future careers that I can choose from. Currently, I'm studying I.T. so this course will help develop my skills for my major and future tech careers that I would love to get into. Learning skills like programming is beneficial too in today's society. The world is very much driven by technology now and it is our job to be updated and learn skills in programming as it can help a lot with technological advances now. It can be useful in other fields like maybe finance because you can make things easier for yourself.
